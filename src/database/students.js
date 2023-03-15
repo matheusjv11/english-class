@@ -1,0 +1,58 @@
+export const students = [
+    {
+        email: 'something@somewhere.com',
+        firstName: 'Joe',
+        lastName: 'Smith Jr',
+        group:  'Important People',
+        phoneNumber:  '781-633-2222',
+        hours: '1000',
+    },
+    {
+        email: 'john@somewhere.com',
+        firstName: 'John',
+        lastName: 'Snow',
+        group:  'Important People',
+        phoneNumber:  '781-333-2222',
+        hours: '900',
+    },
+    {
+        email: 'danny@somewhere.com',
+        firstName: 'Daenarys',
+        lastName: 'Targaryen',
+        group:  'Warrior',
+        phoneNumber:  '781-332-2222',
+        hours: '1200',
+    },
+    {
+        email: 'tester@somewhere.com',
+        firstName: 'User',
+        lastName: 'Tester',
+        group:  'Important People',
+        phoneNumber:  '781-334-2222',
+        hours: '250',
+    },
+    {
+        email: 'alan@somewhere.com',
+        firstName: 'Alan',
+        lastName: 'Turing',
+        group:  'Developer',
+        phoneNumber:  '781-337-2222',
+        hours: '900',
+    },
+    {
+        email: 'pearl@somewhere.com',
+        firstName: 'Pearl',
+        lastName: 'Gem',
+        group:  'Warrior',
+        phoneNumber:  '781-335-2222',
+        hours: '1020',
+    },
+    {
+        email: 'toph@somewhere.com',
+        firstName: 'Toph',
+        lastName: 'Beifong',
+        group:  'Developer',
+        phoneNumber:  '781-336-2222',
+        hours: '600',
+    }
+]
